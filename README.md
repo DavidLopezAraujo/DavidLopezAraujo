@@ -19,7 +19,8 @@ My name is David López Araujo. I am currently a Software Engineering student at
 
 ## 📂 Projects
 
-- No public projects at the moment — coming soon.
+- Sistemas-Operativos: Basic operating system in C -> [Repository](https://github.com/DavidLopezAraujo/Sistemas-Operativos)
+- More public proyects coming soon.
 
 ---
 
