@@ -20,6 +20,7 @@ My name is David López Araujo. I am currently a Software Engineering student at
 ## 📂 Projects
 
 - Sistemas-Operativos: Basic operating system in C -> [Repository](https://github.com/DavidLopezAraujo/Sistemas-Operativos)
+- SEW: Web project with Html, Css, JavaScript and Php -> [Repository](https://github.com/DavidLopezAraujo/SEW-MotoGP-Desktop)
 - More public proyects coming soon.
 
 ---
